@@ -1,3 +1,3 @@
 # MLDR
 
-Parallel data sets for multilingual discrete reasoning.
+Parallel data sets for cross-lingual discrete reasoning.
